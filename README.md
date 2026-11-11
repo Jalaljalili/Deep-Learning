@@ -12,7 +12,6 @@ Both the notebook and the Python script contain the same experiments in the same
 ├── train.py          # Equivalent experiments as a Python script
 ├── README.md         # Setup, interpretation, and line-by-line explanation
 ├── requirements.txt  # Dependency version ranges
-└── .gitignore        # Excludes local environments and generated files
 ```
 
 ## Installation
